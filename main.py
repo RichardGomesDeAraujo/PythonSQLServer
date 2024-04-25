@@ -4,7 +4,7 @@ import pyodbc
 ## Importante manter o sinal de = sem espaços
 dadosconexao = (
     "Driver={SQL Server};"
-    "Server=BOOK-J33GD56FP6;"
+    "Server=BOOK-JYYYYYYYYY;"
     "Database=DBBV;"
 )
 
